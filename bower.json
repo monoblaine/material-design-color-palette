@@ -2,16 +2,19 @@
     "name": "material-design-color-palette",
     "description": "Material Design Color Palette",
     "keywords": [
-      "material design",
-      "color palette"
+        "material design",
+        "color palette"
     ],
     "authors": [
-      "Sergey Kupletsky <s.kupletsky@gmail.com> (http://github.com/zavoloklom)"
+        "Sergey Kupletsky <s.kupletsky@gmail.com> (http://github.com/zavoloklom)"
     ],
-    "license": ["MIT", "CC-BY-3.0"],
+    "license": [
+        "MIT",
+        "CC-BY-3.0"
+    ],
     "main": [
-      "./css/material-design-color-palette.css",
-      "./css/material-design-color-palette.min.css"
+        "./css/material-design-color-palette.css",
+        "./css/material-design-color-palette.min.css"
     ],
     "ignore": [
         "*/.*",
@@ -20,5 +23,6 @@
     ],
     "homepage": "http://zavoloklom.github.io/material-design-color-palette/",
     "dependencies": {},
-    "devDependencies": {}
+    "devDependencies": {},
+    "version": "1.1.0-m1"
 }
